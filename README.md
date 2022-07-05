@@ -1,6 +1,6 @@
 # Biostatistics
 
-R scripts created for Biostatistics Projects:
+R scripts created for Biostatistics (PUBH6450/PUBH6451) Projects:
 
 Project 1 - Framingham Study: Difference in Average MRW Between High Cholesterol Level and Low Cholesterol Level Groups 
 
