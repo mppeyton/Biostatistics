@@ -4,7 +4,8 @@ R scripts created for Biostatistics (PUBH6450/PUBH6451) Projects:
 
 Project 1 - Framingham Study: Difference in Average MRW Between High Cholesterol Level and Low Cholesterol Level Groups: 
 
-            Data exploration and visualization, Two sample T-test
+            Data exploration and visualization, 
+            Two sample T-test
 
 Project 2 - National Health and Nutrition Examination Study: Modeling Predictors of Body Mass Index (BMI):
            
